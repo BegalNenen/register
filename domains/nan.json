@@ -1,10 +1,9 @@
 {
-  "description": "Hanya manusia biasa",
+  "description": "Lepi Website",
   "repo": "https://github.com/BegalNenen/begalnenen.github.io",
   "owner": {
-    "username": "BegalNenen",
-    "email": "harpesmun69@gmail.com",
-    "twitter": "nan.phtml"
+    "username": "nikhils4",
+    "email": "harpesmun69@gmail.com"
   },
   "record": {
     "CNAME": "begalnenen.github.io"
