@@ -1,0 +1,11 @@
+{
+  "description": "Nan Website",
+  "repo": "https://github.com/BegalNenen/begalnenen.github.io",
+  "owner": {
+    "username": "BegalNenen",
+    "email": "harpesmun69@gmail.com"
+  },
+  "record": {
+    "CNAME": "begalnenen.github.io"
+  }
+}
